@@ -8,3 +8,4 @@ Learning: Enables users to listen to educational materials, enhancing learning e
 Content Distribution: Offers an additional medium for content consumption, increasing engagement.
 Convenience: Allows users to listen to articles or books while multitasking, such as during commutes or workouts.
 
+![image](https://github.com/user-attachments/assets/93b665ea-a7e7-4aca-ac9d-42d2fe9db834)
